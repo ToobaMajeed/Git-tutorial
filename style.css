@@ -1,6 +1,8 @@
-h1{
-    color: brown;
-}
 body{
-    color:coral;
+    background-color: darkgrey;
+}
+.jumbotron
+{
+    background-color: black;
+    color:gold;
 }
